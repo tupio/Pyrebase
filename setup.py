@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pyrebase-t',
+    name='tyrebase',
     version='1.0.30',
     url='https://github.com/tupio/Pyrebase/',
     description='A simple python wrapper for the Firebase API forked from https://github.com/thisbejim/Pyrebase',
