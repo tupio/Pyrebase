@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Pyrebase-t',
-    version='1.0.28',
+    name='pyrebase-t',
+    version='1.0.30',
     url='https://github.com/tupio/Pyrebase/',
     description='A simple python wrapper for the Firebase API forked from https://github.com/thisbejim/Pyrebase',
-    author='James Childs-Maidment',
+    author='James Childs-Maidment, Denil Verghese',
     license='MIT',
     classifiers=[
         'Development Status :: 3 - Alpha',
