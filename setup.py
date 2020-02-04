@@ -22,5 +22,6 @@ setup(
         'requests_toolbelt==0.9.1',
         'python_jwt==2.0.1',
         'pycryptodome==3.9.6'
+        
     ]
 )
