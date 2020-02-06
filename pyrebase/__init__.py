@@ -1,1 +1,1 @@
-from .pyrebase import initialize_app
+from .tyrebase import initialize_app
